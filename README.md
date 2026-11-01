@@ -3,20 +3,20 @@
 <p><sub>AN EDITORIAL SECURITY PROFILE · VINIT DANGI</sub></p>
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=vinitdangi&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F181359519%3Fu%3D4aa015a4aa86e730804b6f80a018e81e043d7d87%26v%3D4&label=vinitdangi&mode=light" />
-  <img src="https://www.gitskins.com/api/section/hero?username=vinitdangi&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F181359519%3Fu%3D4aa015a4aa86e730804b6f80a018e81e043d7d87%26v%3D4&label=vinitdangi&mode=dark" width="100%" alt="Vinit Dangi cinematic security profile scene" />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://www.gitskins.com/api/section/neofetch?username=vinitdangi&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F181359519%3Fu%3D4aa015a4aa86e730804b6f80a018e81e043d7d87%26v%3D4&role=Frontend+or+full-stack+engineer&mode=light"
+  />
+  <img
+    src="https://www.gitskins.com/api/section/neofetch?username=vinitdangi&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F181359519%3Fu%3D4aa015a4aa86e730804b6f80a018e81e043d7d87%26v%3D4&role=Frontend+or+full-stack+engineer&mode=dark"
+    width="100%"
+    alt="Vinit Dangi neofetch-style security profile"
+  />
 </picture>
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/wordmark?username=vinitdangi&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F181359519%3Fu%3D4aa015a4aa86e730804b6f80a018e81e043d7d87%26v%3D4&label=vinitdangi&v=cinematic-hero-wordmark-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/wordmark?username=vinitdangi&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F181359519%3Fu%3D4aa015a4aa86e730804b6f80a018e81e043d7d87%26v%3D4&label=vinitdangi&v=cinematic-hero-wordmark-1&mode=dark" width="100%" alt="Vinit Dangi animated ASCII name" />
-</picture>
-
-<p><strong>Cloud Security Engineer · Cybersecurity</strong></p>
-
-<p>AWS Cloud Security · Security Engineering · Automation</p>
-
-<p>
+<p align="center">
+  <code>~/links</code>
+  &nbsp;
   <a href="https://github.com/vinitdangi">GitHub</a>
 </p>
 
