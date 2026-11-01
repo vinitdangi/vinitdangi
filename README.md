@@ -1,23 +1,22 @@
 <div align="center">
 
-<p><sub>AN EDITORIAL SECURITY PROFILE · VINIT DANGI</sub></p>
-
+<!-- TOP PROFILE CARD -->
 <picture>
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://www.gitskins.com/api/section/neofetch?username=vinitdangi&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F181359519%3Fu%3D4aa015a4aa86e730804b6f80a018e81e043d7d87%26v%3D4&role=Frontend+or+full-stack+engineer&mode=light"
-  />
-  <img
-    src="https://www.gitskins.com/api/section/neofetch?username=vinitdangi&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F181359519%3Fu%3D4aa015a4aa86e730804b6f80a018e81e043d7d87%26v%3D4&role=Frontend+or+full-stack+engineer&mode=dark"
-    width="100%"
-    alt="Vinit Dangi neofetch-style security profile"
-  />
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/neofetch?username=vinitdangi&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F181359519%3Fu%3D4aa015a4aa86e730804b6f80a018e81e043d7d87%26v%3D4&role=Cloud+Security+Engineer&mode=light" />
+  <img src="https://www.gitskins.com/api/section/neofetch?username=vinitdangi&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F181359519%3Fu%3D4aa015a4aa86e730804b6f80a018e81e043d7d87%26v%3D4&role=Cloud+Security+Engineer&mode=dark" width="100%" alt="Vinit Dangi neofetch profile" />
 </picture>
 
-<p align="center">
-  <code>~/links</code>
-  &nbsp;
-  <a href="https://github.com/vinitdangi">GitHub</a>
+<!-- NAME UNDER PROFILE -->
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/wordmark?username=vinitdangi&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F181359519%3Fu%3D4aa015a4aa86e730804b6f80a018e81e043d7d87%26v%3D4&label=VINIT+DANGI&v=profile-name-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/wordmark?username=vinitdangi&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F181359519%3Fu%3D4aa015a4aa86e730804b6f80a018e81e043d7d87%26v%3D4&label=VINIT+DANGI&v=profile-name-1&mode=dark" width="100%" alt="VINIT DANGI" />
+</picture>
+
+<!-- ORANGE GITHUB LINK -->
+<p>
+  <a href="https://github.com/vinitdangi">
+    <img src="https://img.shields.io/badge/GitHub-vinitdangi-f97316?style=flat-square&logo=github&logoColor=white" alt="GitHub - vinitdangi" />
+  </a>
 </p>
 
 </div>
@@ -203,8 +202,7 @@ web applications, networking, identity, and automation.
 
 <p>
 <sub>
-vinitdangi · cinematic security profile powered by
-<a href="https://www.gitskins.com/">GitSkins</a>
+vinitdangi · cinematic security profile powered by GitSkins
 </sub>
 </p>
 
