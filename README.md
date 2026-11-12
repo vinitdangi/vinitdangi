@@ -2,14 +2,16 @@
 
 <!-- TOP PROFILE CARD -->
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/neofetch?username=vinitdangi&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F181359519%3Fu%3D4aa015a4aa86e730804b6f80a018e81e043d7d87%26v%3D4&role=Cloud+Security+Engineer&mode=light" />
-  <img src="https://www.gitskins.com/api/section/neofetch?username=vinitdangi&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F181359519%3Fu%3D4aa015a4aa86e730804b6f80a018e81e043d7d87%26v%3D4&role=Cloud+Security+Engineer&mode=dark" width="100%" alt="Vinit Dangi neofetch profile" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/neofetch-light.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/neofetch-dark.svg" />
+  <img src="assets/neofetch-light.svg" width="100%" alt="Vinit Dangi neofetch profile" />
 </picture>
 
 <!-- NAME UNDER PROFILE -->
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/wordmark?username=vinitdangi&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F181359519%3Fu%3D4aa015a4aa86e730804b6f80a018e81e043d7d87%26v%3D4&label=VINIT+DANGI&v=profile-name-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/wordmark?username=vinitdangi&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F181359519%3Fu%3D4aa015a4aa86e730804b6f80a018e81e043d7d87%26v%3D4&label=VINIT+DANGI&v=profile-name-1&mode=dark" width="100%" alt="VINIT DANGI" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/wordmark-light.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/wordmark-dark.svg" />
+  <img src="assets/wordmark-light.svg" width="100%" alt="VINIT DANGI" />
 </picture>
 
 <!-- ORANGE GITHUB LINK -->
@@ -70,8 +72,9 @@ FOCUS · AWS Cloud Security
 <h2>In the current cut</h2>
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/highlights?username=vinitdangi&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F181359519%3Fu%3D4aa015a4aa86e730804b6f80a018e81e043d7d87%26v%3D4&items=AWS%20Cloud%20Security%3A%3ACurrent%20focus%7CLinux%20%26%20Networking%3A%3AActive%20security%20focus%7CPython%20%26%20FastAPI%3A%3AActive%20build%20stack&v=cinematic-highlights-2&mode=light" />
-  <img src="https://www.gitskins.com/api/section/highlights?username=vinitdangi&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F181359519%3Fu%3D4aa015a4aa86e730804b6f80a018e81e043d7d87%26v%3D4&items=AWS%20Cloud%20Security%3A%3ACurrent%20focus%7CLinux%20%26%20Networking%3A%3AActive%20security%20focus%7CPython%20%26%20FastAPI%3A%3AActive%20build%20stack&v=cinematic-highlights-2&mode=dark" width="100%" alt="Vinit Dangi security highlights" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/highlights-light.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/highlights-dark.svg" />
+  <img src="assets/highlights-light.svg" width="100%" alt="Vinit Dangi security highlights" />
 </picture>
 
 <p align="center">
@@ -85,8 +88,9 @@ AWS security · Linux & networking · Python security automation
 <h2>Security palette</h2>
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=vinitdangi&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F181359519%3Fu%3D4aa015a4aa86e730804b6f80a018e81e043d7d87%26v%3D4&v=cinematic-stack-2&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stack?username=vinitdangi&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F181359519%3Fu%3D4aa015a4aa86e730804b6f80a018e81e043d7d87%26v%3D4&v=cinematic-stack-2&mode=dark" width="100%" alt="Vinit Dangi security technology stack" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/stack-light.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg" />
+  <img src="assets/stack-light.svg" width="100%" alt="Vinit Dangi security technology stack" />
 </picture>
 
 <p align="center">
@@ -100,8 +104,9 @@ AWS · Linux · Python · Networking · IAM · CloudTrail · Docker · FastAPI �
 <h2>Featured security work</h2>
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=vinitdangi&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F181359519%3Fu%3D4aa015a4aa86e730804b6f80a018e81e043d7d87%26v%3D4&repos=vinitdangi%2FCloudGuard%2Cvinitdangi%2FCloudGuard-Frontend%2Cvinitdangi%2Fpython-honeypot%2Cvinitdangi%2Fvinitdangi&v=cinematic-projects-2&mode=light" />
-  <img src="https://www.gitskins.com/api/section/projects?username=vinitdangi&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F181359519%3Fu%3D4aa015a4aa86e730804b6f80a018e81e043d7d87%26v%3D4&repos=vinitdangi%2FCloudGuard%2Cvinitdangi%2FCloudGuard-Frontend%2Cvinitdangi%2Fpython-honeypot%2Cvinitdangi%2Fvinitdangi&v=cinematic-projects-2&mode=dark" width="100%" alt="Vinit Dangi security project reel" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/projects-light.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/projects-dark.svg" />
+  <img src="assets/projects-light.svg" width="100%" alt="Vinit Dangi security project reel" />
 </picture>
 
 <table width="100%">
@@ -167,15 +172,17 @@ Security monitoring system for detecting and logging unauthorized access attempt
 <h2>Contribution trail</h2>
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=vinitdangi&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F181359519%3Fu%3D4aa015a4aa86e730804b6f80a018e81e043d7d87%26v%3D4&style=snake&v=cinematic-snake-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/heatmap?username=vinitdangi&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F181359519%3Fu%3D4aa015a4aa86e730804b6f80a018e81e043d7d87%26v%3D4&style=snake&v=cinematic-snake-1&mode=dark" width="100%" alt="Vinit Dangi GitHub contribution snake" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/contribution-snake-light.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/contribution-snake-dark.svg" />
+  <img src="assets/contribution-snake-light.svg" width="100%" alt="Vinit Dangi GitHub contribution snake" />
 </picture>
 
 <h2>Play the next move</h2>
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/chess?username=vinitdangi&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F181359519%3Fu%3D4aa015a4aa86e730804b6f80a018e81e043d7d87%26v%3D4&v=cinematic-chess-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/chess?username=vinitdangi&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F181359519%3Fu%3D4aa015a4aa86e730804b6f80a018e81e043d7d87%26v%3D4&v=cinematic-chess-1&mode=dark" width="100%" alt="Vinit Dangi animated chess replay" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/chess-light.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/chess-dark.svg" />
+  <img src="assets/chess-light.svg" width="100%" alt="Static chessboard illustration; no replay moves supplied" />
 </picture>
 
 <p align="center"><sub>─────── ◇ ───────</sub></p>
@@ -192,8 +199,9 @@ web applications, networking, identity, and automation.
 </p>
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=vinitdangi&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F181359519%3Fu%3D4aa015a4aa86e730804b6f80a018e81e043d7d87%26v%3D4&v=cinematic-social-2&mode=light" />
-  <img src="https://www.gitskins.com/api/section/social?username=vinitdangi&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F181359519%3Fu%3D4aa015a4aa86e730804b6f80a018e81e043d7d87%26v%3D4&v=cinematic-social-2&mode=dark" width="100%" alt="Vinit Dangi contact links" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/social-light.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/social-dark.svg" />
+  <img src="assets/social-light.svg" width="100%" alt="Vinit Dangi contact links" />
 </picture>
 
 <p>
@@ -202,7 +210,7 @@ web applications, networking, identity, and automation.
 
 <p>
 <sub>
-vinitdangi · cinematic security profile powered by GitSkins
+vinitdangi · cinematic security profile
 </sub>
 </p>
 

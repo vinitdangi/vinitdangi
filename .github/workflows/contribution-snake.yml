@@ -1,0 +1,48 @@
+name: Update contribution snake
+
+on:
+  schedule:
+    - cron: "17 0 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths-ignore:
+      - "assets/contribution-snake-light.svg"
+      - "assets/contribution-snake-dark.svg"
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - name: Generate animation from GitHub contribution data
+        uses: Platane/snk@v3
+        with:
+          github_user_name: vinitdangi
+          outputs: |
+            dist/contribution-snake-light.svg?color_snake=%2367dbc7&color_dots=%230c2323,%23173d38,%2324554c,%2367dbc7,%238bd9a2
+            dist/contribution-snake-dark.svg?palette=github-dark&color_snake=%2367dbc7
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Store generated contribution animations in the profile repository
+        run: |
+          mkdir -p assets
+          cp dist/contribution-snake-light.svg assets/contribution-snake-light.svg
+          cp dist/contribution-snake-dark.svg assets/contribution-snake-dark.svg
+          git config user.name github-actions[bot]
+          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+          git add assets/contribution-snake-light.svg assets/contribution-snake-dark.svg
+          if git diff --cached --quiet; then
+            echo "Contribution animations are already current."
+          else
+            git commit -m "Update contribution snake"
+            git push
+          fi
