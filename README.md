@@ -247,7 +247,7 @@ Building practical projects across **cloud security, application security, backe
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/vinitdangi/vinitdangi/main/contribution-heatmap.svg" width="100%" alt="GitHub contribution heatmap" />
+<img src="https://raw.githubusercontent.com/vinitdangi/vinitdangi/main/contribution-activity.svg" width="100%" alt="GitHub contribution heatmap" />
 
 </div>
 
