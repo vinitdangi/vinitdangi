@@ -6,11 +6,9 @@
 
 <br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
-  <img src="dark_mode.svg" width="100%" alt="Vinit Dangi terminal-style profile card" />
-</picture>
+<p align="center">
+  <img src="./assets/profile-card.png" alt="Vinit Dangi Profile Card" width="100%">
+</p>
 
 <br/><br/>
 
