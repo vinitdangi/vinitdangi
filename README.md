@@ -247,11 +247,7 @@ Building practical projects across **cloud security, application security, backe
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=vinitdangi&bg_color=0D1117&color=A78BFA&line=7C3AED&point=C4B5FD&area=true&hide_border=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=vinitdangi&bg_color=FFFFFF&color=7C3AED&line=6D28D9&point=8B5CF6&area=true&hide_border=true" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vinitdangi" width="100%" alt="GitHub activity graph" />
-</picture>
+<img src="https://raw.githubusercontent.com/vinitdangi/vinitdangi/main/contribution-heatmap.svg" width="100%" alt="GitHub contribution heatmap" />
 
 </div>
 
